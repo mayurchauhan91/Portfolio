@@ -263,7 +263,7 @@ p {
     flex-wrap: wrap;
   }
   .link-information {
-    margin: 10px;
+    margin: 5px;
   }
   .footer {
     width: 30vw;
@@ -303,7 +303,7 @@ p {
     margin: 100px 20px 100px 0;
   }
   .link-information {
-    margin: 10px;
+    margin: 5px;
   }
 }
 @media only screen and (min-width: 400px) and (max-width: 799px) {
@@ -363,6 +363,9 @@ p {
   .footer {
     width: 30vw;
   }
+  .link-information {
+    margin: 5px;
+  }
 }
 @media only screen and (max-width: 399px) {
   body {
@@ -417,6 +420,9 @@ p {
   }
   .project-img {
     margin: 0;
+  }
+  .link-information {
+    margin: 5px;
   }
   .footer {
     width: 30vw;
