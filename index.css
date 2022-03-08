@@ -56,7 +56,7 @@ p {
   font-size: 1rem;
 }
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-weight: 300;
 }
 .header-img {
@@ -213,9 +213,6 @@ p {
   }
 }
 @media only screen and (min-width: 800px) and (max-width: 959px) {
-  body {
-    width: auto;
-  }
   .main-container {
     height: fit-content;
   }
@@ -270,10 +267,6 @@ p {
   }
 }
 @media only screen and (min-width: 960px) and (max-width: 1439px) {
-  body {
-    width: auto;
-    height: fit-content;
-  }
   .center-align {
     flex-wrap: wrap;
   }
@@ -430,9 +423,6 @@ p {
   }
 }
 @media only screen and (min-width: 1440px) {
-  body {
-    width: auto;
-  }
   .main-text {
     width: 40vw;
   }
@@ -443,7 +433,7 @@ p {
     width: 50%;
   }
   .lead {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
   .project-img {
     margin: 68px 20px 68px 0;
