@@ -262,6 +262,9 @@ p {
   .center-align {
     flex-wrap: wrap;
   }
+  .link-information {
+    margin: 10px;
+  }
   .footer {
     width: 30vw;
   }
@@ -298,6 +301,9 @@ p {
   .project-img {
     width: 40vw;
     margin: 100px 20px 100px 0;
+  }
+  .link-information {
+    margin: 10px;
   }
 }
 @media only screen and (min-width: 400px) and (max-width: 799px) {
