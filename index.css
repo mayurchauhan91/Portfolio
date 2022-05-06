@@ -1,7 +1,7 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: "Roboto Serif", sans-serif;
+  font-family: 'Roboto Flex', sans-serif;
 }
 
 figcaption p {
@@ -21,7 +21,7 @@ p {
 }
 .wipe-ani {
   letter-spacing: 2px;
-  font-weight: 200;
+  font-weight: bold;
   color: #f35626;
   background-image: linear-gradient(92deg, #f35626, #feab3a);
   -webkit-background-clip: text;
@@ -54,6 +54,7 @@ p {
 }
 .blockquote-footer {
   font-size: 1rem;
+  margin-top: 0.5rem;
 }
 .lead {
   font-size: 1.2rem;
