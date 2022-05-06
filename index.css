@@ -49,12 +49,12 @@ p {
 }
 .display-1,
 .project-header {
-  font-weight: bold;
+  font-weight: 500;
   font-size: 5rem;
 }
 .blockquote-footer {
   font-size: 1rem;
-  margin-top: 0.5rem;
+  margin-top: 0.5rem 0;
 }
 .lead {
   font-size: 1.2rem;
